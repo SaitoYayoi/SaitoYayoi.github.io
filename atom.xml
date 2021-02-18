@@ -6,7 +6,7 @@
   <link href="https://sknyt.xyz/atom.xml" rel="self"/>
   
   <link href="https://sknyt.xyz/"/>
-  <updated>2021-02-17T07:56:31.697Z</updated>
+  <updated>2021-02-18T09:59:36.735Z</updated>
   <id>https://sknyt.xyz/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="https://sknyt.xyz/iOS/MyPlanet/"/>
     <id>https://sknyt.xyz/iOS/MyPlanet/</id>
     <published>2021-02-17T04:00:45.000Z</published>
-    <updated>2021-02-17T07:56:31.697Z</updated>
+    <updated>2021-02-18T09:59:36.735Z</updated>
     
-    <content type="html"><![CDATA[<p>记录一下第一个<del>较完整</del>的swift App</p><p>其实还是因为在家上网课太无聊。</p><p>好的我要被枪决了</p><a id="more"></a><hr><p>Github：<a href="https://github.com/SaitoYayoi/My_Planet">https://github.com/SaitoYayoi/My_Planet</a></p><p><a href="/download/MyPlanet.zip">原文件</a>：</p><ul><li>MD5：24548214ff88c65757181803ada7936f</li><li>SHA-1：d704a0b51f44070cf7fa0a4ca6ebcc1f1e79a26f</li><li>SHA-256：16c90796c873f0884dfb006be82614ed56e1dd91db0962f2c0d0cf43a5113131</li></ul><hr><p>分类汇编：<a href="https://sknyt.xyz/iOS/Main/">首页</a>、<a href="https://sknyt.xyz/iOS/Mail">Mail页</a>、<a href="https://sknyt.xyz/iOS/Music">Music页</a>、<a href="https://sknyt.xyz/iOS/Weather">Weather页</a>、<a href="https://sknyt.xyz/iOS/Fate">Fate页</a></p><hr><p>特别鸣谢：<a href="https://github.com/taglee">@Taglee</a></p>]]></content>
+    <content type="html"><![CDATA[<p>记录一下第一个<del>较完整</del>的swift App</p><p>其实还是因为在家上网课太无聊。</p><p>好的我要被枪决了</p><a id="more"></a><hr><p>Github：<a href="https://github.com/SaitoYayoi/My_Planet">https://github.com/SaitoYayoi/My_Planet</a></p><p><a href="http://120.55.193.84/MyPlanet.zip">原文件</a>：</p><ul><li>MD5：24548214ff88c65757181803ada7936f</li><li>SHA-1：d704a0b51f44070cf7fa0a4ca6ebcc1f1e79a26f</li><li>SHA-256：16c90796c873f0884dfb006be82614ed56e1dd91db0962f2c0d0cf43a5113131</li></ul><hr><p>分类汇编：<a href="https://sknyt.xyz/iOS/Main/">首页</a>、<a href="https://sknyt.xyz/iOS/Mail">Mail页</a>、<a href="https://sknyt.xyz/iOS/Music">Music页</a>、<a href="https://sknyt.xyz/iOS/Weather">Weather页</a>、<a href="https://sknyt.xyz/iOS/Fate">Fate页</a></p><hr><p>特别鸣谢：<a href="https://github.com/taglee">@Taglee</a></p>]]></content>
     
     
     <summary type="html">&lt;p&gt;记录一下第一个&lt;del&gt;较完整&lt;/del&gt;的swift App&lt;/p&gt;
